@@ -1,0 +1,6 @@
+# basic gitignore files in a macosx environment
+
+.DS_Store
+/images/
+*.afpub
+/fonts/
